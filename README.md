@@ -8,7 +8,7 @@ Built using the **Hotel Booking Demand** dataset containing **119,390 booking re
 
 ## 📊 Dashboard Preview
 
-![Hotel Booking Demand Dashboard](<img width="1122" height="592" alt="report_overview" src="https://github.com/user-attachments/assets/67aa83fa-a1d1-496a-b3f8-a8a075277292" />)
+<img width="1122" height="592" alt="report_overview" src="https://github.com/user-attachments/assets/755a44e0-e4c9-4683-9da7-a11e04179f70" />
 
 
 ---
